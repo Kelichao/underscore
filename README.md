@@ -1,8 +1,8 @@
-# underscore
-底线库（_）的相关用法包含常用函数，模板引擎
+# underscore使用介绍
+> 底线库（_）的相关用法包含常用函数，模板引擎
 
 # undescore模板
-### [这里推荐一个模板Mustache.js ](https://github.com/janl/mustache.js#readme)
+- [这里推荐一个模板Mustache.js ](https://github.com/janl/mustache.js#readme)
 ## HTML模板介绍
 ```html
 <!--type需要修改，以及增加一个id -->
@@ -10,12 +10,17 @@
 	//innerHTML
 </script>
 ```
+
 ```js
 var html = document.getElementById("underscoreTemp1").innerHTML// 取数据直接取
 ```
-![image](https://cloud.githubusercontent.com/assets/18028533/20421233/9e8a9996-ad9d-11e6-9272-79c7a4ca15c4.png)
+
+![image](https://cloud.githubusercontent.com/assets/18028533/20421233/9e8a9996-ad9d-11e6-9272-79c7a4ca15c4.png);
+
 ## 底线库模板语法
-- **底线库模板逻辑非常的清新，结构就跟原生的js语法一模一样，而且不用对html标签的特殊包裹**
+
+> 底线库模板逻辑非常的清新，结构就跟原生的js语法一模一样，而且不用对html标签的特殊包裹
+
 <table>
 	<tr>
                <td colspan=2>模板语法</td></tr>
