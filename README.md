@@ -117,6 +117,8 @@ var template = _.template(html,data);
 
 $("body").append(template);
 ```
+- 由于有些老版本的库可能不支持直接编写，所以推荐分两步进行。
+
 ## with 指定当前变量
 ```js
 // 默认的, template 通过 with 语句来取得 data 所有的值.
