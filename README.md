@@ -1,6 +1,10 @@
 # underscore模板使用介绍
-> 底线库（_）的相关用法包含常用函数，模板引擎
 
+
+
+> 底线库（\_）的相关用法包含常用函数，模板引擎
+
+- [底线库模板解读](https://github.com/hanzichi/underscore-analysis)
 - [这里推荐一个模板Mustache.js ](https://github.com/janl/mustache.js#readme)
 
 ## HTML模板介绍
